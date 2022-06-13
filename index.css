@@ -1,0 +1,40 @@
+.display,.result{
+    height: 31px;
+    width: 178px;
+    background-color: black;
+    color: white;
+}
+
+.digits{
+    margin-top: 30px;
+    margin-left: 120px
+}
+
+/* .result{
+    font-size: 10px;
+} */
+
+#clear{
+    padding: 10px 40px;
+}
+
+.operators{
+    margin-left: 105px
+}
+
+.functions{
+    margin-left: 105px
+}
+
+.plus,.minus,.by,.times{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container{
+    margin-top: 50px;
+    height: 300px;
+    width: 460px;
+    border: solid black;
+    border-radius: 2%;
+}
